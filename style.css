@@ -42,30 +42,8 @@ body {
   background-color: #f0f0ff;
   border-color: #ccccff;
 }
-.accordion-content:nth-child(5) {
-  background-color: #f0f0ff;
-  border-color: #a3eaff;
-}
-.accordion-content:nth-child(6) {
-  background-color: #f0f0ff;
-  border-color: #e4ffcc;
-}
-.accordion-content:nth-child(7) {
-  background-color: #f0f0ff;
-  border-color: #ffcccc;
-}
-.accordion-content:nth-child(8) {
-  background-color: #f0f0ff;
-  border-color: #ccffe5;
-}
-.accordion-content:nth-child(9) {
-  background-color: #f0f0ff;
-  border-color: #9dfff0;
-}
-.accordion-content:nth-child(10) {
-  background-color: #f0f0ff;
-  border-color: #c0b0fe;
-}
+
+
 .accordion-content.open {
   padding-bottom: 10px;
 }
